@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  ![TDD](https://github.com/nestjs-practice/tdd-by-nestjs/assets/108314208/98bd0fd8-fa9e-40ed-897a-9ac47a75d224)
 </p>
 
 ## Description
